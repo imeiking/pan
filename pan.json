@@ -1,0 +1,64 @@
+{
+    "sites": [
+        {
+            "name": "南風短劇 | PAN",
+            "type": 3,
+            "api": "csp_nanfdj",
+            "ext": "https://raw.githubusercontent.com/imeiking/pan/refs/heads/main/nanfdj.js"
+        },
+        {
+            "name": "小米 | PAN",
+            "type": 3,
+            "api": "csp_mihdr",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/mihdr.js"
+        },
+        {
+            "name": "seedhub | PAN",
+            "type": 3,
+            "api": "csp_seedhub",
+            "ext": "https://raw.githubusercontent.com/imeiking/pan/refs/heads/main/seedhub.js"
+        },
+      {
+            "name": "tgs | PAN",
+            "type": 3,
+            "api": "csp_tgs",
+            "ext": "https://raw.githubusercontent.com/imeiking/pan/refs/heads/main/tgs.js"
+        },
+      {
+            "name": "wogg | PAN",
+            "type": 3,
+            "api": "csp_wogg",
+            "ext": "https://raw.githubusercontent.com/imeiking/pan/refs/heads/main/wogg.js"
+        },
+      {
+            "name": "ouge | PAN",
+            "type": 3,
+            "api": "csp_ouge",
+            "ext": "https://raw.githubusercontent.com/imeiking/pan/refs/heads/main/ouge.js"
+        },
+      {
+            "name": "labipan | PAN",
+            "type": 3,
+            "api": "csp_labipan",
+            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/labipan.js"
+        },
+      {
+            "name": "huban | PAN",
+            "type": 3,
+            "api": "csp_huban",
+            "ext": "https://raw.githubusercontent.com/imeiking/pan/refs/heads/main/huban.js"
+        },
+      {
+            "name": "star2 | PAN",
+            "type": 3,
+            "api": "csp_star2",
+            "ext": "https://raw.githubusercontent.com/imeiking/pan/refs/heads/main/star2.js"
+        },
+      {
+            "name": "mihdr | PAN",
+            "type": 3,
+            "api": "csp_mihdr",
+            "ext": "https://raw.githubusercontent.com/imeiking/pan/refs/heads/main/mihdr.js"
+        }
+    ]
+}
